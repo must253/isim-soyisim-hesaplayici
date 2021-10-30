@@ -1,0 +1,18 @@
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\bin\Debug\Boy Yaş Kilo hesaplayıcı.exe
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\bin\Debug\Boy Yaş Kilo hesaplayıcı.pdb
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy_Yaş_Kilo_hesaplayıcı.Form1.resources
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy_Yaş_Kilo_hesaplayıcı.Properties.Resources.resources
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.csproj.GenerateResource.cache
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.exe
+C:\Users\Unqown Exe\source\repos\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.pdb
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\bin\Debug\Boy Yaş Kilo hesaplayıcı.exe
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\bin\Debug\Boy Yaş Kilo hesaplayıcı.pdb
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy_Yaş_Kilo_hesaplayıcı.Form1.resources
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy_Yaş_Kilo_hesaplayıcı.Properties.Resources.resources
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.csproj.GenerateResource.cache
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.exe
+C:\Users\ma\Desktop\Boy Yaş Kilo hesaplayıcı\Boy Yaş Kilo hesaplayıcı\obj\Debug\Boy Yaş Kilo hesaplayıcı.pdb
